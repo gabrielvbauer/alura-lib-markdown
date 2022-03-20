@@ -1,6 +1,6 @@
 {
   "name": "markdown-url-validator",
-  "version": "1.0.01",
+  "version": "1.0.02",
   "description": "Lib for testing links in a markdown file",
   "main": "./cli.js",
   "bin": {
